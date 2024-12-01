@@ -1,0 +1,6 @@
+day_nr: 01
+[0.0146037] Initialization took: 0.0000713 sec.
+result_a: 3508942
+[0.0156891] took: 0.0010854 sec.
+result_b: 26593248
+[0.0220219] took: 0.0063328 sec.
